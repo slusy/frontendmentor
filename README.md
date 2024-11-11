@@ -27,7 +27,7 @@ Welcome to my repository for Frontend Mentor solutions! My solutions for the var
 
 ### NEWBIE
 
-<!-- - Minimal Blog Card&ensp;&ensp;&ensp;[CODE](https://github.com/Achal-00/devChallenges/tree/main/CODE/minimal-blog-card)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-00.github.io/devChallenges/minimal-blog-card/) -->
+- QR Code Component&ensp;&ensp;&ensp;[CODE](https://github.com/Achal-00/devChallenges/tree/main/CODE/NEWBIE/qr-code-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/devChallenges/newbie/qr-code-component/)
 
 ### JUNIOR
 
