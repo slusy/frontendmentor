@@ -1,6 +1,6 @@
 # Results Summary Component
 
-![qr-code-component](https://github.com/user-attachments/assets/386d2e87-32d3-4911-b632-d785f01e67c0)
+![results-summary-component](https://github.com/user-attachments/assets/ce94f196-a489-43c5-ab00-e1abb2127b74)
 
 [Live Demo](http://achal-socials.vercel.app/github/frontendmentor/newbie/results-summary-component/)
 
