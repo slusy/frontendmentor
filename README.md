@@ -32,6 +32,8 @@ Welcome to my repository for Frontend Mentor solutions! My solutions for the var
 
 ### JUNIOR
 
+- Age Calculator App&ensp;&ensp;&ensp;[CODE](https://github.com/slusy/frontendmentor/tree/main/CODE/JUNIOR/age-calculator-app)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/frontendmentor/junior/age-calculator-app/)
+
 ### INTERMEDIATE
 
 ### ADVANCED
