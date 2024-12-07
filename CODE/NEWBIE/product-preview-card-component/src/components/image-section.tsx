@@ -7,7 +7,7 @@ export const HeroImage: React.FC = () => {
       <img
         src="image-product-desktop.jpg"
         alt="Flowers"
-        className="rounded-t-2xl sm:rounded-t-none sm:rounded-tl-2xl sm:rounded-bl-2xl sm:h-full"
+        className="rounded-t-2xl sm:rounded-t-none sm:rounded-tl-2xl sm:rounded-bl-2xl"
       />
     </picture>
   );
