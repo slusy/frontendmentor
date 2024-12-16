@@ -1,6 +1,6 @@
 # Product Preview Card Component
 
-![product-preview-card-component](https://github.com/user-attachments/assets/386d2e87-32d3-4911-b632-d785f01e67c0)
+![product-preview-card-component](https://github.com/user-attachments/assets/f571aac4-675b-4179-83fa-b2b900e2ec25)
 
 [Live Demo](http://achal-socials.vercel.app/github/frontendmentor/newbie/product-preview-card-component/)
 
