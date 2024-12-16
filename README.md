@@ -29,6 +29,7 @@ Welcome to my repository for Frontend Mentor solutions! My solutions for the var
 
 - QR Code Component&ensp;&ensp;&ensp;[CODE](https://github.com/slusy/frontendmentor/tree/main/CODE/NEWBIE/qr-code-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/frontendmentor/newbie/qr-code-component/)
 - Results Summary Component&ensp;&ensp;&ensp;[CODE](https://github.com/slusy/frontendmentor/tree/main/CODE/NEWBIE/results-summary-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/frontendmentor/newbie/results-summary-component/)
+- Product Preview Card Component&ensp;&ensp;&ensp;[CODE](https://github.com/slusy/frontendmentor/tree/main/CODE/NEWBIE/product-preview-card-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/frontendmentor/newbie/product-preview-card-component/)
 
 ### JUNIOR
 
