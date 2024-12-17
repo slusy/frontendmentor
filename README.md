@@ -1,10 +1,10 @@
 <h1 align="center">Frontend Mentor Solutions</h1>
 <div align="center">
-  <img alt="" src="https://img.shields.io/github/repo-size/slusy/frontendmentor" />
-  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/slusy/frontendmentor" />
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/slusy/frontendmentor?color=red" />
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/slusy/frontendmentor" />
-  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/slusy/frontendmentor?color=green">
+  <img alt="" src="https://img.shields.io/github/repo-size/spudoodle/frontendmentor" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/spudoodle/frontendmentor" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/spudoodle/frontendmentor?color=red" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/spudoodle/frontendmentor" />
+  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/spudoodle/frontendmentor?color=green">
 </div>
 <br>
 <p align="center">This repository contains my solutions for various challenges from <a href="https://www.frontendmentor.io">Frontend Mentor</a></p>
@@ -27,13 +27,13 @@ Welcome to my repository for Frontend Mentor solutions! My solutions for the var
 
 ### NEWBIE
 
-- QR Code Component&ensp;&ensp;&ensp;[CODE](https://github.com/slusy/frontendmentor/tree/main/CODE/NEWBIE/qr-code-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/frontendmentor/newbie/qr-code-component/)
-- Results Summary Component&ensp;&ensp;&ensp;[CODE](https://github.com/slusy/frontendmentor/tree/main/CODE/NEWBIE/results-summary-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/frontendmentor/newbie/results-summary-component/)
-- Product Preview Card Component&ensp;&ensp;&ensp;[CODE](https://github.com/slusy/frontendmentor/tree/main/CODE/NEWBIE/product-preview-card-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/frontendmentor/newbie/product-preview-card-component/)
+- QR Code Component&ensp;&ensp;&ensp;[CODE](https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/qr-code-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-socials.vercel.app/github/frontendmentor/newbie/qr-code-component/)
+- Results Summary Component&ensp;&ensp;&ensp;[CODE](https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/results-summary-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-socials.vercel.app/github/frontendmentor/newbie/results-summary-component/)
+- Product Preview Card Component&ensp;&ensp;&ensp;[CODE](https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/product-preview-card-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-socials.vercel.app/github/frontendmentor/newbie/product-preview-card-component/)
 
 ### JUNIOR
 
-- Age Calculator App&ensp;&ensp;&ensp;[CODE](https://github.com/slusy/frontendmentor/tree/main/CODE/JUNIOR/age-calculator-app)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://slusy.github.io/frontendmentor/junior/age-calculator-app/)
+- Age Calculator App&ensp;&ensp;&ensp;[CODE](https://github.com/spudoodle/frontendmentor/tree/main/CODE/JUNIOR/age-calculator-app)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-socials.vercel.app/github/frontendmentor/junior/age-calculator-app/)
 
 ### INTERMEDIATE
 
