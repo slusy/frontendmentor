@@ -62,6 +62,6 @@ test.describe("portfolio component", () => {
 
     const newPage = await newPagePromise;
 
-    await expect(newPage).toHaveURL("https://slusy.vercel.app/");
+    await expect(newPage).toHaveURL("https://spudoodle.vercel.app/");
   });
 });
