@@ -4,8 +4,8 @@ import react from "@vitejs/plugin-react-swc";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://spudoodle.github.io/frontendmentor/newbie/results-summary-component",
+  base: "https://spudoodle.github.io/frontendmentor/out/results-summary-component",
   build: {
-    outDir: "../../../newbie/results-summary-component",
+    outDir: "../../../out/results-summary-component",
   },
 });
