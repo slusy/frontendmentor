@@ -32,6 +32,7 @@ If you find this useful, star the repository ❤️
 - QR Code Component&ensp;&ensp;&ensp;[CODE](https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/qr-code-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-socials.vercel.app/github/frontendmentor/out/qr-code-component/)
 - Results Summary Component&ensp;&ensp;&ensp;[CODE](https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/results-summary-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-socials.vercel.app/github/frontendmentor/out/results-summary-component/)
 - Product Preview Card Component&ensp;&ensp;&ensp;[CODE](https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/product-preview-card-component)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-socials.vercel.app/github/frontendmentor/out/product-preview-card-component/)
+- Social Links Profile&ensp;&ensp;&ensp;[CODE](https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/social-links-profile)&ensp;&ensp;|&ensp;&ensp;[LIVE](https://achal-socials.vercel.app/github/frontendmentor/out/social-links-profile/)
 
 ### JUNIOR
 

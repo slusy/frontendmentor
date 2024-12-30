@@ -31,6 +31,21 @@ const PROJECTS = [
     live: "https://achal-socials.vercel.app/github/frontendmentor/out/product-preview-card-component/",
     language: ["vite", "react", "typescript", "tailwind css", "playwright"],
   },
+  {
+    id: 5,
+    label: "newbie",
+    name: "Social Links Profile",
+    code: "https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/social-links-profile",
+    live: "https://achal-socials.vercel.app/github/frontendmentor/out/social-links-profile/",
+    language: [
+      "vite",
+      "react",
+      "typescript",
+      "tailwind css",
+      "playwright",
+      "motion",
+    ],
+  },
 ];
 
 let selectedLabel = "ALL";
