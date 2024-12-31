@@ -1,6 +1,7 @@
 # Social Links Profile
 
-![social-links-profile](https://github.com/user-attachments/assets/ce94f196-a489-43c5-ab00-e1abb2127b74)
+![social-links-profile](https://github.com/user-attachments/assets/cee10dc4-15a9-432d-b793-e62aa35015b5)
+
 
 [Live Demo](http://achal-socials.vercel.app/github/frontendmentor/out/social-links-profile/)
 
