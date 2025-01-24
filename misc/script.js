@@ -46,6 +46,14 @@ const PROJECTS = [
       "motion",
     ],
   },
+  {
+    id: 6,
+    label: "newbie",
+    name: "Huddle Landing Page with a Single Introductory Section",
+    code: "https://github.com/spudoodle/frontendmentor/tree/main/CODE/NEWBIE/huddle-landing-page-with-a-single-introductory-section",
+    live: "https://achal-socials.vercel.app/github/frontendmentor/out/huddle-landing-page-with-a-single-introductory-section/",
+    language: ["vite", "react", "typescript", "tailwind css", "motion"],
+  },
 ];
 
 let selectedLabel = "ALL";
